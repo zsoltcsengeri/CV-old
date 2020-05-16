@@ -48,6 +48,12 @@ a:hover {
   color: #EAF6F6;
 }
 
+.CV {
+  font-size: 2rem;
+  color: #0ba4e0;
+  font-weight: 900;
+}
+
 .top-container {
   background-color: #bbe1fa;
   position: relative;
